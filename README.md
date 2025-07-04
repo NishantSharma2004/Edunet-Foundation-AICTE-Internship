@@ -35,12 +35,12 @@ Joblib
 bash
 Copy
 Edit
-├── app.py                      # Streamlit application script
-├── Pollution_Model.pkl         # Trained ML model
-├── Model_Columns.pkl           # Feature columns used during training (https://drive.google.com/file/d/1Y3XKfaC8IQzAa9zBMV4ZQR1Yz9JXJQzF/view?usp=drive_link)
-├── WaterQualityPrediction.ipynb  # Model training notebook
-├── prediction_log.txt          #  Prediction logs
-└── model_log.txt               #  Dependencies list
+├── app.py                      # Streamlit application script                                                                                                                                                      
+├── Pollution_Model.pkl         # Trained ML model (https://drive.google.com/file/d/1Y3XKfaC8IQzAa9zBMV4ZQR1Yz9JXJQzF/view?usp=drive_link)                                                                          
+├── Model_Columns.pkl           # Feature columns used during training                                                                                                                                              
+├── WaterQualityPrediction.ipynb  # Model training notebook                                                                                                                                                         
+├── prediction_log.txt          #  Prediction logs                                                                                                                                                                  
+└── model_log.txt               #  Dependencies list                                                                                                                                                               
 🔍 How It Works
 Model Training (Jupyter Notebook):
 
